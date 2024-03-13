@@ -68,10 +68,10 @@
   height: 100%;
   background: var(--img);
   background-size: cover;
-  background-position: left;
   clip-path: circle(0% at 0% 50%);
   transition: 1.5s;
   transition-delay: 0s;
+  background-position: left;
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
